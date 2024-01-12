@@ -1,0 +1,36 @@
+1.0 koraka za generiranje početnog simpleksa dalo je optimalno rješenje Nelder-Mead: 2.000212835613022 te simpleks [0.9992845273737316, 0.9987129550961811]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 678 puta
+
+5.0 koraka za generiranje početnog simpleksa dalo je optimalno rješenje Nelder-Mead: 2.0014629045165933 te simpleks [0.9996467150931982, 0.9992702695170359]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 694 puta
+
+10.0 koraka za generiranje početnog simpleksa dalo je optimalno rješenje Nelder-Mead: 2.0002485921203643 te simpleks [1.0004050577511094, 1.0008679849490538]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 890 puta
+
+19.0 koraka za generiranje početnog simpleksa dalo je optimalno rješenje Nelder-Mead: 1.9993160800252792 te simpleks [1.0004253819498379, 1.0009206370883388]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 784 puta
+
+1.0 koraka za generiranje početnog simpleksa dalo je optimalno rješenje Nelder-Mead: 2.000212835613022 te simpleks [0.9992845273737316, 0.9987129550961811]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 678 puta
+
+5.0 koraka za generiranje početnog simpleksa dalo je optimalno rješenje Nelder-Mead: 2.0014629045165933 te simpleks [0.9996467150931982, 0.9992702695170359]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 694 puta
+
+10.0 koraka za generiranje početnog simpleksa dalo je optimalno rješenje Nelder-Mead: 2.0002485921203643 te simpleks [1.0004050577511094, 1.0008679849490538]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 890 puta
+
+19.0 koraka za generiranje početnog simpleksa dalo je optimalno rješenje Nelder-Mead: 1.9993160800252792 te simpleks [1.0004253819498379, 1.0009206370883388]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 784 puta
+
+1.0 koraka za generiranje početnog simpleksa dalo je optimalno rješenje Nelder-Mead: 2.000212835613022 te simpleks [0.9992845273737316, 0.9987129550961811]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 678 puta
+
+5.0 koraka za generiranje početnog simpleksa dalo je optimalno rješenje Nelder-Mead: 2.0014629045165933 te simpleks [0.9996467150931982, 0.9992702695170359]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 694 puta
+
+10.0 koraka za generiranje početnog simpleksa dalo je optimalno rješenje Nelder-Mead: 2.0002485921203643 te simpleks [1.0004050577511094, 1.0008679849490538]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 890 puta
+
+19.0 koraka za generiranje početnog simpleksa dalo je optimalno rješenje Nelder-Mead: 1.9993160800252792 te simpleks [1.0004253819498379, 1.0009206370883388]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 784 puta
+

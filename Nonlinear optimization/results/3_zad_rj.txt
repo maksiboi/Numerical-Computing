@@ -1,0 +1,18 @@
+Optimalno rešenje Nelder-Mead: (-3.497260691835591e-07, [7.550207813582673e-07, -4.396227088731617e-07])
+Funkcija se simpleksom po Nelderu i Meadu pozvala 1544 puta
+
+Optimalno rješenje Hooke-Jeeves je: [5.0, 5.0]
+Funkcija se algoritmom Hooke-Jeeves pozvala 209 puta
+
+Optimalno rešenje Nelder-Mead: (-3.497260691835591e-07, [7.550207813582673e-07, -4.396227088731617e-07])
+Funkcija se simpleksom po Nelderu i Meadu pozvala 1544 puta
+
+Optimalno rješenje Hooke-Jeeves je: [5.0, 5.0]
+Funkcija se algoritmom Hooke-Jeeves pozvala 209 puta
+
+Optimalno rešenje Nelder-Mead: (-3.497260691835591e-07, [7.550207813582673e-07, -4.396227088731617e-07])
+Funkcija se simpleksom po Nelderu i Meadu pozvala 1544 puta
+
+Optimalno rješenje Hooke-Jeeves je: [5.0, 5.0]
+Funkcija se algoritmom Hooke-Jeeves pozvala 209 puta
+

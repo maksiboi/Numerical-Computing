@@ -1,0 +1,90 @@
+S početnom točkom x0: [-48, -27], optimalno rešenje Nelder-Mead: [-46.5743408203125, -26.04815673828125]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 234 puta
+
+S početnom točkom x0: [-50, 49], optimalno rešenje Nelder-Mead: [-48.92822265625, 48.776123046875]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 170 puta
+
+S početnom točkom x0: [-43, 20], optimalno rešenje Nelder-Mead: [-42.5894660949707, 20.172691345214844]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 202 puta
+
+S početnom točkom x0: [1, -26], optimalno rešenje Nelder-Mead: [0.352294921875, -25.10693359375]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 176 puta
+
+S početnom točkom x0: [29, -18], optimalno rešenje Nelder-Mead: [29.500701904296875, -17.95037841796875]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 236 puta
+
+S početnom točkom x0: [-40, 3], optimalno rešenje Nelder-Mead: [-40.63834762573242, 3.7981033325195312]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 240 puta
+
+S početnom točkom x0: [-32, 40], optimalno rešenje Nelder-Mead: [-31.02734375, 39.615234375]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 134 puta
+
+S početnom točkom x0: [25, -30], optimalno rešenje Nelder-Mead: [24.55773925781257, -28.55773925781243]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 1066 puta
+
+S početnom točkom x0: [-4, -19], optimalno rešenje Nelder-Mead: [-3.9884567260742188, -18.416648864746094]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 218 puta
+
+S početnom točkom x0: [-47, -20], optimalno rešenje Nelder-Mead: [-46.0606689453125, -20.0225830078125]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 176 puta
+
+S početnom točkom x0: [42, 32], optimalno rešenje Nelder-Mead: [42.28515625, 32.56640625]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 100 puta
+
+S početnom točkom x0: [3, 35], optimalno rešenje Nelder-Mead: [3.1031570434570312, 34.40888977050781]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 250 puta
+
+S početnom točkom x0: [23, 24], optimalno rešenje Nelder-Mead: [24.105459213256836, 24.736629486083984]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 242 puta
+
+S početnom točkom x0: [33, 27], optimalno rešenje Nelder-Mead: [34.26953125, 27.50390625]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 170 puta
+
+S početnom točkom x0: [11, 41], optimalno rešenje Nelder-Mead: [12.08187484741211, 42.26469802856445]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 256 puta
+
+S početnom točkom x0: [-46, -32], optimalno rešenje Nelder-Mead: [-47.1201171875, -31.297607421875]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 190 puta
+
+S početnom točkom x0: [5, -26], optimalno rešenje Nelder-Mead: [3.9775390625, -24.783203125]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 174 puta
+
+S početnom točkom x0: [24, -3], optimalno rešenje Nelder-Mead: [24.8994140625, -3.39306640625]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 194 puta
+
+S početnom točkom x0: [-19, 40], optimalno rešenje Nelder-Mead: [-18.372169494628906, 39.93995666503906]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 222 puta
+
+S početnom točkom x0: [8, -22], optimalno rešenje Nelder-Mead: [8.16438102722168, -20.42637348175049]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 254 puta
+
+S početnom točkom x0: [20, 42], optimalno rešenje Nelder-Mead: [20.79296875, 42.21484375]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 98 puta
+
+S početnom točkom x0: [-45, 9], optimalno rešenje Nelder-Mead: [-43.1171875, 8.47265625]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 168 puta
+
+S početnom točkom x0: [-42.5, -16.0], optimalno rešenje Nelder-Mead: [-40.97887611389159, -16.000000000000057]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 1218 puta
+
+S početnom točkom x0: [50, 38], optimalno rešenje Nelder-Mead: [50.28125, 37.703125]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 98 puta
+
+S početnom točkom x0: [34, 35], optimalno rešenje Nelder-Mead: [35.00331115722656, 36.06986999511719]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 214 puta
+
+S početnom točkom x0: [-30, -10], optimalno rešenje Nelder-Mead: [-29.935546875, -9.5517578125]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 154 puta
+
+S početnom točkom x0: [-8, 8], optimalno rešenje Nelder-Mead: [-7.912517547607422, 9.753263473510742]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 292 puta
+
+S početnom točkom x0: [-50, -19], optimalno rešenje Nelder-Mead: [-49.965415954589844, -18.736743927001953]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 206 puta
+
+S početnom točkom x0: [2, 0], optimalno rešenje Nelder-Mead: [3.1280517578125, 0.22576904296875]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 234 puta
+
+S početnom točkom x0: [-10, 39], optimalno rešenje Nelder-Mead: [-9.79083251953125, 39.628875732421875]
+Funkcija se simpleksom po Nelderu i Meadu pozvala 232 puta
+

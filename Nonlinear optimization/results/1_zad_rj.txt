@@ -1,0 +1,48 @@
+Rješenje zlatnog reza je x € [2.99999973042013,3.000000671445815]
+Funkcija se metodom zlatnog reza pozvala 111 puta
+
+Optimalno rešenje: [2.999999910140043]
+Funkcija se metodom koordinatnog pretraživanja pozvala 118 puta
+
+Optimalno rešenje Nelder-Mead: 3.0
+Funkcija se simpleksom po Nelderu i Meadu pozvala 56 puta
+
+Optimalno rješenje Hooke-Jeeves je: [3.0]
+Funkcija se algoritmom Hooke-Jeeves pozvala 244 puta
+
+Rješenje zlatnog reza je x € [2.99999973042013,3.000000671445815]
+Funkcija se metodom zlatnog reza pozvala 111 puta
+
+Optimalno rešenje: [2.999999910140043]
+Funkcija se metodom koordinatnog pretraživanja pozvala 118 puta
+
+Optimalno rešenje Nelder-Mead: 3.0
+Funkcija se simpleksom po Nelderu i Meadu pozvala 56 puta
+
+Optimalno rješenje Hooke-Jeeves je: [3.0]
+Funkcija se algoritmom Hooke-Jeeves pozvala 244 puta
+
+Rješenje zlatnog reza je x € [2.99999973042013,3.000000671445815]
+Funkcija se metodom zlatnog reza pozvala 111 puta
+
+Optimalno rešenje: [2.999999910140043]
+Funkcija se metodom koordinatnog pretraživanja pozvala 118 puta
+
+Optimalno rešenje Nelder-Mead: 3.0
+Funkcija se simpleksom po Nelderu i Meadu pozvala 56 puta
+
+Optimalno rješenje Hooke-Jeeves je: [3.0]
+Funkcija se algoritmom Hooke-Jeeves pozvala 244 puta
+
+Rješenje zlatnog reza je x € [2.99999973042013,3.000000671445815]
+Funkcija se metodom zlatnog reza pozvala 111 puta
+
+Optimalno rešenje: [2.999999910140043]
+Funkcija se metodom koordinatnog pretraživanja pozvala 118 puta
+
+Optimalno rešenje Nelder-Mead: 3.0
+Funkcija se simpleksom po Nelderu i Meadu pozvala 56 puta
+
+Optimalno rješenje Hooke-Jeeves je: [3.0]
+Funkcija se algoritmom Hooke-Jeeves pozvala 244 puta
+
