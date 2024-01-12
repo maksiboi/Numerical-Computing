@@ -1,16 +1,16 @@
-#Solving Systems of Linear Algebraic Equations
+##Solving Systems of Linear Algebraic Equations
 In the "Solving systems of linear algebraic equations" folder, you will find implementations of LU and LUP decomposition methods, as well as the computation of matrix determinants and inverses using LUP decomposition.
 
-Implemented Features:
+###Implemented Features:
   -LU decomposition
   -LUP decomposition
   -Determinant calculation
   -Matrix inversion using LUP decomposition
 
-#Nonlinear Optimization
+##Nonlinear Optimization
 In the "Nonlinear Optimization" folder, various algorithms have been implemented for nonlinear optimization.
 
-Implemented Algorithms:
+###Implemented Algorithms:
   -Golden Section Method
   -Coordinate Axis Search
   -Nelder-Mead Simplex Method
