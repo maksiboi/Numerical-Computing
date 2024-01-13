@@ -21,3 +21,16 @@ Implemented Algorithms:
 - Hooke-Jeeves Method
 
 These implementations are designed to provide efficient solutions for solving nonlinear optimization problems. The algorithms aim to find optimal solutions by iteratively improving the objective function, employing diverse optimization strategies.
+
+### Optimization with Gradient Information
+
+Optimization with gradient information involves utilizing derivative information (such as gradients) to optimize functions efficiently. It is particularly useful for solving unconstrained optimization problems.
+
+Implemented Methods:
+
+- **Steepest Descent Method (Gradient Descent):**
+    - Algorithm for finding the minimum of a function by moving in the direction opposite to the gradient.
+- **Newton-Raphson Method:**
+    - Iterative optimization algorithm that uses both first and second-order derivatives to converge to the minimum of a function.
+- **Gauss-Newton Method:**
+    - Optimization algorithm specifically designed for solving nonlinear least-squares problems. It iteratively refines estimates of parameters using gradient and Jacobian information.
