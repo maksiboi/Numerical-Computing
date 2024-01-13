@@ -1,0 +1,32 @@
+FUNKCIJA 4: Newton-Raphsonova metoda BEZ korištenjem linijskog pretraživanja u početnoj točki : [3, 3]
+('Optimal point:', [-1.7692923542386314, 1.0])
+('Optimal value:', -4.219136248741586)
+Broj poziva  funkcije cilja: 18
+Broj poziva računanja gradijenta: 19
+Broj poziva računanja Hesseove matrice: 19 
+
+
+FUNKCIJA 4: Newton-Raphsonova metoda BEZ korištenjem linijskog pretraživanja u početnoj točki : [1, 2]
+Upozorenje: Algoritam stagnira!
+('Optimal point:', [1.0, 1.0])
+('Optimal value:', 1.25)
+Broj poziva  funkcije cilja: 10
+Broj poziva računanja gradijenta: 10
+Broj poziva računanja Hesseove matrice: 10 
+
+
+FUNKCIJA 4: Newton-Raphsonova metoda UZ korištenjem linijskog pretraživanja u početnoj točki : [3, 3]
+('Optimal point:', [-1.7692923542249428, 0.9999999789266308])
+('Optimal value:', -4.219136248741586)
+Broj poziva  funkcije cilja: 585
+Broj poziva računanja gradijenta: 7
+Broj poziva računanja Hesseove matrice: 7 
+
+
+FUNKCIJA 4: Newton-Raphsonova metoda UZ korištenjem linijskog pretraživanja u početnoj točki : [1, 2]
+('Optimal point:', [-1.7692923542528884, 1.000000019385733])
+('Optimal value:', -4.219136248741586)
+Broj poziva  funkcije cilja: 496
+Broj poziva računanja gradijenta: 6
+Broj poziva računanja Hesseove matrice: 6 
+

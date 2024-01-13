@@ -1,0 +1,4 @@
+Gauss-Newton uz čitav iznos pomaka
+Optimal point:[1.0, 1.0]
+Optimal value: [0.0, 0.0]
+Broj izracuna Jakobijana: 3

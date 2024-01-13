@@ -1,0 +1,12 @@
+Određivanje minmuma funkcije 3 BEZ određivanje optimalnog iznosa koraka
+Upozorenje: Algoritam stagnira!
+Optimal point: [0, 0]
+Optimal value: 13
+Broj poziva  funkcije cilja 10
+Broj poziva računanja gradijenta 10
+
+Određivanje minmuma funkcije 3 UZ određivanje optimalnog iznosa koraka
+Optimal point: [2.0, -2.999999764743579]
+Optimal value: 7.686886650575392e-15
+Broj poziva  funkcije cilja 260
+Broj poziva računanja gradijenta 3

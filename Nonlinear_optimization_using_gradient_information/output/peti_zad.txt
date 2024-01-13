@@ -1,0 +1,41 @@
+Gauss-Newton BEZ određivanja optimalnog pomaka
+Ne stagnira
+Pocetna tocka:  [-2, 2]
+Optimal point: [-0.7861513777574233, 0.6180339887498948]
+Optimal value:  [-1.1102230246251565e-16, 0.0]
+Broj izracuna Jakobijana: 6
+
+Ne stagnira
+Pocetna tocka:  [2, 2]
+Optimal point: [0.7861513777574233, 0.6180339887498948]
+Optimal value:  [-1.1102230246251565e-16, 0.0]
+Broj izracuna Jakobijana: 6
+
+Upozorenje: Algoritam stagnira!
+Pocetna tocka:  [2, -2]
+Optimal point: [0.18883621931956251, -1.6180339887498942]
+Optimal value:  5.4694017808177735
+Broj izracuna Jakobijana: 100001
+
+Gauss-Newton UZ određivanja optimalnog pomaka
+Ne stagnira
+Pocetna tocka:  [-2, 2]
+Optimal point: [-0.7861513777574233, 0.6180339883356624]
+Optimal value:  [-5.120195378793824e-10, -4.1423242613802813e-10]
+Broj poziva  funkcije cilja: 583 
+Broj izracuna Jakobijana: 7
+
+Ne stagnira
+Pocetna tocka:  [2, 2]
+Optimal point: [0.7861513777574232, 0.6180339883541839]
+Optimal value:  [-4.891258509331919e-10, -3.9571079746281157e-10]
+Broj poziva  funkcije cilja: 567 
+Broj izracuna Jakobijana: 7
+
+Ne stagnira
+Pocetna tocka:  [2, -2]
+Optimal point: [-0.006253188842490792, -1.9756984526849228]
+Optimal value:  [2.9034234783122983, -1.9757375550556227]
+Broj poziva  funkcije cilja: 24139 
+Broj izracuna Jakobijana: 298
+

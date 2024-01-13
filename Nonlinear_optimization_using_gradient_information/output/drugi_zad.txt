@@ -1,0 +1,30 @@
+FUNKCIJA 1: Gradijentni spust metoda s korištenjem linijskog pretraživanja: 
+Upozorenje: Algoritam stagnira!
+('Optimal point:', [0.3709149371251682, 0.04568666667689887])
+('Optimal value:', 1.2401477194204031)
+Broj poziva  funkcije cilja 80250185
+Broj poziva računanja gradijenta 1000001 
+
+
+FUNKCIJA 1: Newton-Raphsonova metoda s korištenjem linijskog pretraživanja: 
+('Optimal point:', [1.0000000000000062, 1.0000000000005052])
+('Optimal value:', 7.341078916483736e-17)
+Broj poziva  funkcije cilja: 2970
+Broj poziva računanja gradijenta: 36
+Broj poziva računanja Hesseove matrice: 36 
+
+
+FUNKCIJA 2: Gradijentni spust metoda s korištenjem linijskog pretraživanja: 
+('Optimal point:', [3.999999732571329, 1.999999966223945])
+('Optimal value:', 9.868906723527715e-14)
+Broj poziva  funkcije cilja: 943
+Broj poziva računanja gradijenta: 11
+
+
+FUNKCIJA 2: Newton-Raphsonova metoda s korištenjem linijskog pretraživanja: 
+('Optimal point:', [4.0, 2.000000000000003])
+('Optimal value:', 9.38994709373907e-16)
+Broj poziva  funkcije cilja: 250
+Broj poziva računanja gradijenta: 3
+Broj poziva računanja Hesseove matrice: 3 
+
