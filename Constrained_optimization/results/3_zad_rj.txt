@@ -1,0 +1,4 @@
+Funckija 4:
+Starting point: [5, 5]
+Optimal solution: [2.0, 0.9999980926513672]
+Objective value: 1.9999961853063724

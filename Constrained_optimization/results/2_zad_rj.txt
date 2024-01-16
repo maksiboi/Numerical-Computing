@@ -1,0 +1,9 @@
+Funckija 1:
+Starting point: [0, 3]
+Optimal solution: [1.0003490447998047, 1.0006980895996094]
+Objective value: 1.2183375658095104e-07
+
+Funckija 2:
+Starting point: [0.1, 0.3]
+Optimal solution: [1.9874988555908204, 1.9874999999999998]
+Objective value: 4.0507858562482575
