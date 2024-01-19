@@ -6,7 +6,10 @@ class Matrica:
         self.redaka = redaka
         self.stupaca = stupaca
         self.matrica = [[0.0 for _ in range(stupaca)] for _ in range(redaka)]
-
+    
+    def set_matricu(self, elements):
+        self.matrica = elements
+        
     def __str__(self):
         return "\n".join([" ".join(map(str, red)) for red in self.matrica])
 
@@ -65,7 +68,6 @@ class Matrica:
         except ValueError as e:
             print("Upozorenje:", e)
             return None  
-
 
     def __rmul__(self, scalar: float):
         '''
@@ -139,6 +141,13 @@ class Matrica:
                 if self[i][j] != druga_matrica[i][j]:
                     return False
         return True
+    
+    def __round__(self, ndigits=0):
+        rounded_matrica = Matrica(self.redaka, self.stupaca)
+        for i in range(self.redaka):
+            for j in range(self.stupaca):
+                rounded_matrica.matrica[i][j] = round(self.matrica[i][j], ndigits)
+        return rounded_matrica
 
     def citaj_iz_datoteke(self, ime_datoteke: str) -> None:
         '''
@@ -154,7 +163,6 @@ class Matrica:
             self.redaka = len(redovi)
             self.stupaca = len(redovi[0].split())
             self.matrica = [[float(x) for x in red.split()] for red in redovi]
-
 
     def promijeni_dimenzije(self, redaka: int, stupaca: int) -> None:
         '''
