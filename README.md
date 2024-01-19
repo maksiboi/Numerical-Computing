@@ -34,3 +34,13 @@ Implemented Methods:
     - Iterative optimization algorithm that uses both first and second-order derivatives to converge to the minimum of a function.
 - **Gauss-Newton Method:**
     - Optimization algorithm specifically designed for solving nonlinear least-squares problems. It iteratively refines estimates of parameters using gradient and Jacobian information.
+
+### Constrained Optimization
+
+Implemented Methods:
+
+- **Box Method:**
+    - The Box Method is utilized for solving optimization problems with constraints. The algorithm iteratively refines the search space by considering both explicit and implicit constraints.
+
+- **Transformation to Unconstrained Problem - Mixed Approach:**
+    - The repository features a method for transforming constrained optimization problems into unconstrained problems using a mixed approach. This approach addresses both inequality and equality constraints, providing an effective solution strategy.
