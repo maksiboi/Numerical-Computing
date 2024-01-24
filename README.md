@@ -44,3 +44,17 @@ Implemented Methods:
 
 - **Transformation to Unconstrained Problem - Mixed Approach:**
     - The repository features a method for transforming constrained optimization problems into unconstrained problems using a mixed approach. This approach addresses both inequality and equality constraints, providing an effective solution strategy.
+ 
+### Numerical Differentiation
+Within the Numerical Differentiation folder, a collection of algorithms has been implemented to address the numerical challenges associated with derivative calculations. These methods play a crucial role in approximating derivatives when analytical solutions are not readily available.
+
+Implemented Algorithms:
+
+- **Euler Method:**
+    - The Euler method offers a simple yet effective approach for numerical integration. It is employed to approximate derivatives by discretizing the function and evaluating the slope at each step.
+- **Backward Euler Method:**
+    - The backward Euler method, implemented here, provides an alternative approach for numerical differentiation. It involves solving equations backward in time, enhancing stability in certain scenarios.
+- **Trapezoidal Rule:**
+    - Leveraging the trapezoidal rule, this method provides a numerical solution for differentiation. By approximating the area under the curve, it yields an estimate of the derivative.
+- **Runge-Kutta 4th Order:**
+    - The Runge-Kutta 4th Order method is a higher-order numerical technique for solving differential equations. In the context of numerical differentiation, it offers increased accuracy by considering multiple points in each step.
