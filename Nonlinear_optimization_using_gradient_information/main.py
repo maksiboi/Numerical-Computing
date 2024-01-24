@@ -2,7 +2,7 @@ import math
 import sys
 sys.path.append('')
 
-from DZ1.matrica import Matrica
+from Solving_systems_of_linear_algebraic_equations.matrica import Matrica
 import nonlinear_optimization_using_gradient
 
 broj_poziva_f1 = 0

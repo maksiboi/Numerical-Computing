@@ -1,0 +1,4 @@
+T = 0.01, diferential_interval = [0, 1]
+I0: starting state variable [1.0, -2.0], t_i = 0.0
+I100: state variable [0.13803296719774344, -0.2760659343954869], t_i = 1.0
+Method stopped in point: x(t=1) = [0.13803296719774344, -0.2760659343954869]
